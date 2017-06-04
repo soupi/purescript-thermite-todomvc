@@ -2,7 +2,7 @@ A standalone todomvc example cut out of [purescript-thermite](https://github.com
 
 ### Prerequisites
 
-- psc-0.10.*
+- psc-0.11.*
 - pulp-10.0.*
 - bower
 - npm
@@ -17,4 +17,4 @@ cd html
 python -m SimpleHTTPServer # or any other http server
 ```
 
-now go to: [localhost:8000](http://localhost:8000)
+now go to: [localhost:8000](http://localhost:8000) (or using whatever port you used)!

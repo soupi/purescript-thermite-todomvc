@@ -1,4 +1,5 @@
 {
+  "name": "purescript-thermite-todomvc",
   "authors": [
     "Phil Freeman <paf31@cantab.net>"
   ],
@@ -9,6 +10,6 @@
     "bower_components"
   ],
   "dependencies": {
-    "purescript-thermite": "^3.2.1"
+    "purescript-thermite": "^4.1.0"
   }
 }
